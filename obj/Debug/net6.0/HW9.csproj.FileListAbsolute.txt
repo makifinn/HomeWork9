@@ -1,0 +1,15 @@
+C:\Users\maki\Desktop\HW9\bin\Debug\net6.0\HW9.exe
+C:\Users\maki\Desktop\HW9\bin\Debug\net6.0\HW9.deps.json
+C:\Users\maki\Desktop\HW9\bin\Debug\net6.0\HW9.runtimeconfig.json
+C:\Users\maki\Desktop\HW9\bin\Debug\net6.0\HW9.dll
+C:\Users\maki\Desktop\HW9\bin\Debug\net6.0\HW9.pdb
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.csproj.AssemblyReference.cache
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.AssemblyInfoInputs.cache
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.AssemblyInfo.cs
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.csproj.CoreCompileInputs.cache
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.dll
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\refint\HW9.dll
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.pdb
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\HW9.genruntimeconfig.cache
+C:\Users\maki\Desktop\HW9\obj\Debug\net6.0\ref\HW9.dll
